@@ -1,7 +1,3 @@
-Tentu, berikut adalah versi profil GitHub dengan format **Skills** yang menggunakan tag `<div>` dan `<code>` untuk menampilkan gambar teknologi yang Anda kuasai:
-
----
-
 # 👋 Hello, I'm Muhamad Luthfi Sadli
 
 Welcome to my GitHub profile! I'm a passionate web developer with expertise in both frontend and backend technologies. I love creating beautiful, functional, and efficient web applications. Here's a bit more about me and the skills I bring to the table.
@@ -47,7 +43,7 @@ I often work with the following technologies and tools:
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/PHP-logo.svg"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"></code>
